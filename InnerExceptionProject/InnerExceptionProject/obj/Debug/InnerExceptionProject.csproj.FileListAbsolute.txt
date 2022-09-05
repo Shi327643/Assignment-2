@@ -1,0 +1,8 @@
+C:\.netproject\InnerExceptionProject\InnerExceptionProject\bin\Debug\InnerExceptionProject.exe.config
+C:\.netproject\InnerExceptionProject\InnerExceptionProject\bin\Debug\InnerExceptionProject.exe
+C:\.netproject\InnerExceptionProject\InnerExceptionProject\bin\Debug\InnerExceptionProject.pdb
+C:\.netproject\InnerExceptionProject\InnerExceptionProject\obj\Debug\InnerExceptionProject.csproj.AssemblyReference.cache
+C:\.netproject\InnerExceptionProject\InnerExceptionProject\obj\Debug\InnerExceptionProject.csproj.SuggestedBindingRedirects.cache
+C:\.netproject\InnerExceptionProject\InnerExceptionProject\obj\Debug\InnerExceptionProject.csproj.CoreCompileInputs.cache
+C:\.netproject\InnerExceptionProject\InnerExceptionProject\obj\Debug\InnerExceptionProject.exe
+C:\.netproject\InnerExceptionProject\InnerExceptionProject\obj\Debug\InnerExceptionProject.pdb
