@@ -1,0 +1,11 @@
+C:\.netproject\HRLib\ABCCorp\bin\Debug\ABCCorp.exe.config
+C:\.netproject\HRLib\ABCCorp\bin\Debug\ABCCorp.exe
+C:\.netproject\HRLib\ABCCorp\bin\Debug\ABCCorp.pdb
+C:\.netproject\HRLib\ABCCorp\bin\Debug\HRLib.dll
+C:\.netproject\HRLib\ABCCorp\bin\Debug\HRLib.pdb
+C:\.netproject\HRLib\ABCCorp\obj\Debug\ABCCorp.csproj.AssemblyReference.cache
+C:\.netproject\HRLib\ABCCorp\obj\Debug\ABCCorp.csproj.SuggestedBindingRedirects.cache
+C:\.netproject\HRLib\ABCCorp\obj\Debug\ABCCorp.csproj.CoreCompileInputs.cache
+C:\.netproject\HRLib\ABCCorp\obj\Debug\ABCCorp.csproj.CopyComplete
+C:\.netproject\HRLib\ABCCorp\obj\Debug\ABCCorp.exe
+C:\.netproject\HRLib\ABCCorp\obj\Debug\ABCCorp.pdb
