@@ -1,6 +1,0 @@
-C:\.netproject\HRLib\HRLib\bin\Debug\HRLib.dll
-C:\.netproject\HRLib\HRLib\bin\Debug\HRLib.pdb
-C:\.netproject\HRLib\HRLib\obj\Debug\HRLib.csproj.AssemblyReference.cache
-C:\.netproject\HRLib\HRLib\obj\Debug\HRLib.csproj.CoreCompileInputs.cache
-C:\.netproject\HRLib\HRLib\obj\Debug\HRLib.dll
-C:\.netproject\HRLib\HRLib\obj\Debug\HRLib.pdb
